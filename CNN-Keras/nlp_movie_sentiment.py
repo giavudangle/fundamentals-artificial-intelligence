@@ -142,7 +142,7 @@ from numpy import asarray
 from numpy import zeros
 
 embeddings_dictionary = dict()
-glove_file = open('E:/Datasets/Word Embeddings/glove.6B.100d.txt', encoding="utf8")
+glove_file = open('D:\Downloads\AI\glove.6B.100d.txt', encoding="utf8")
 
 for line in glove_file:
     records = line.split()
