@@ -1,0 +1,9 @@
+conda create -n tf tensorflow
+conda activate tf
+conda install pandas
+conda install nltk
+conda install scikit-learn
+conda install seaborn
+conda install nb_conda
+conda install keras
+jupyter notebook
